@@ -54,31 +54,31 @@ Below is the tentative schedule for the course. As the quarter progresses it'll 
 
 - Complete [Project 2](/project2/)
 
-#### October 15, 2019
+#### October 15, 2019: Creating a React Application [[source](https://github.com/scalableinternetservices/cs291a_react_demo/tree/master/class_app)]
 
 **TODO**:
 
 - Begin [Project 3](project3) (optional: with a partner)
 
-#### October 17, 2019
+#### October 17, 2019: Agile, TDD, CI, and Pairing [[slides](/slides/2019/06_agile_tdd_pairing/)]
 
 **TODO**:
 
 - Make progress on [Project 3](/project3/)
 
-#### October 22, 2019
+#### October 22, 2019: Client-side Caching and CDNs [[slides](/slides/2019/07_client_caching_cdn/)]
 
 **TODO**:
 
 - Continue working on [Project 3](/project3/)
 
-#### October 24, 2019
+#### October 24, 2019: Server-side Caching [[slides](/slides/2019/08_server_caching/)]
 
 **TODO**:
 
-- Complete [Project 3](/project3/)
+- Continue working on [Project 3](/project3/)
 
-#### October 29, 2019
+#### October 29, 2019: (Tentative) Load Testing with Tsung
 
 **TODO**:
 
@@ -87,7 +87,7 @@ Below is the tentative schedule for the course. As the quarter progresses it'll 
   - develop initial features
   - deploy to elastic beanstalk
 
-#### October 31, 2019
+#### October 31, 2019: (Tentative) Relational Databases
 
 #### November 5, 2019
 
